@@ -1,3 +1,3 @@
 # Schuif
 
-Live Link: http://25953.hosts2.ma-cloud.nl/bewijzenmap/periode1.3/fro/schuif/allesschuiven.html
+Live Link: http://25953.hosts2.ma-cloud.nl/bewijzenmap/periode1.3/fro/schuif/index.html
